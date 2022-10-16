@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Slient1802
+- 👋 Hi, I’m @RuanSlient
 - 👀 I’m interested in technology, science, universe 
-- 🌱 I’m currently learning pythons 
+- 🌱 I’m currently learning Python
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me ...
 https://linktr.ee/ruanslient
