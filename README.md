@@ -9,7 +9,7 @@
 - 📫 **How to reach me on social media:**
 https://linktr.ee/ruanslient
 
-# Languages and Tools:
+## Languages and Tools:
 <!-- <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> -->
 <!-- <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> -->
 <!-- <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> -->
@@ -33,7 +33,7 @@ https://linktr.ee/ruanslient
 <!-- <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> -->
 <br />
 
-## 📊 Stats
+### 📊 Stats:
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Slient1802&show_icons=true&theme=gruvbox)
 
