@@ -35,6 +35,6 @@ https://linktr.ee/ruanslient
 
 ### 📊 Stats:
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Slient1802&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Slient1802&show_icons=true&theme=github_dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Slient1802&theme=gruvbox&border_radius=4.5)
