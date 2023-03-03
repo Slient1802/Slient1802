@@ -4,22 +4,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Slient1802&theme=gruvbox&border_radius=4.5)
 <!-- Coding activities  -->
-<p align="center"><a href="https://wakatime.com/@Ruanslient">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Ruanslient/362f4f91-93f1-4a63-9aef-9dc425f5b98a.svg" />
-</a>
-<!-- Language  -->
-<a href="https://wakatime.com/@Ruanslient">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Ruanslient/731d9503-7dde-47c4-8adb-0945294f54eb.svg" />
-</a></p>
-<!-- Editor -->
-<p align="center"><a href="https://wakatime.com/@Ruanslient">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Ruanslient/f66ea53e-6d85-4fe7-92d2-2484b241522a.svg" />
-</a>
-<!-- OS -->
-<a href="https://wakatime.com/@Ruanslient">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Ruanslient/cab2fc7d-9c19-49bf-8f89-eb349ab5500e.svg" />
-</a></p>
-# Welcome:
+
+## Welcome:
 - 👋 Hi everyone who reading this, I’m @RuanSlient aka RuanHung/Slient/Silent
 - **`I'm Digital Craftsman (Developer/Filmmaker/Creator)`**
 - 🧑 He/Him
@@ -30,7 +16,7 @@
 - 📫 **How to reach me on social media:**
 https://linktr.ee/ruanslient
 
-## Languages and Tools:
+### Languages and Tools:
 <!-- <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> -->
 <!-- <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> -->
 <!-- <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> -->
