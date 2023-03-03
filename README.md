@@ -1,3 +1,24 @@
+# Stats ✨:
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Slient1802&show_icons=true&theme=github_dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Slient1802&theme=gruvbox&border_radius=4.5)
+<!-- Coding activities  -->
+<p align="center"><a href="https://wakatime.com/@Ruanslient">
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Ruanslient/362f4f91-93f1-4a63-9aef-9dc425f5b98a.svg" />
+</a>
+<!-- Language  -->
+<a href="https://wakatime.com/@Ruanslient">
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Ruanslient/731d9503-7dde-47c4-8adb-0945294f54eb.svg" />
+</a></p>
+<!-- Editor -->
+<p align="center"><a href="https://wakatime.com/@Ruanslient">
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Ruanslient/f66ea53e-6d85-4fe7-92d2-2484b241522a.svg" />
+</a>
+<!-- OS -->
+<a href="https://wakatime.com/@Ruanslient">
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Ruanslient/cab2fc7d-9c19-49bf-8f89-eb349ab5500e.svg" />
+</a></p>
 # Welcome:
 - 👋 Hi everyone who reading this, I’m @RuanSlient aka RuanHung/Slient/Silent
 - **`I'm Digital Craftsman (Developer/Filmmaker/Creator)`**
@@ -34,8 +55,4 @@ https://linktr.ee/ruanslient
 <!-- <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> -->
 <br />
 
-### 📊 Stats:
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Slient1802&show_icons=true&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Slient1802&theme=gruvbox&border_radius=4.5)
