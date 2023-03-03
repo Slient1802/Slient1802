@@ -2,8 +2,8 @@
 - 👋 Hi everyone who reading this, I’m @RuanSlient aka RuanHung/Slient/Silent
 - **`I'm Digital Craftsman (Developer/Filmmaker/Creator)`**
 - 🧑 He/Him
-- 👀 I’m interested in technology, science, universe...
-- 🌱 I’m currently learning `Python`,`ML`,`AI`
+- 👀 I love robotics and AI because they are fascinating fields that explore the possibilities of creating intelligent machines that can interact with humans and the environment. Robotics and AI have many applications in various domains such as healthcare, education, entertainment, security and more. I’m always curious to learn more about the latest developments and innovations in these fields.
+- 🌱 I’m currently learning `Python`,`ML`,`AI`,`Arduino`
 - UTC +7 (Asian)
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 **How to reach me on social media:**
